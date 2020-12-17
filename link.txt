@@ -1,1 +1,5 @@
 si mi página estaría hosteada, el link seria "https://www.pdi.xyz/"
+
+link página online github: https://vondts.github.io/pdi.xyz/
+
+link repositorio github: https://github.com/vondts/pdi.xyz
